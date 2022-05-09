@@ -4,17 +4,13 @@ Aspiring data analyst with a track record of developing and executing data drive
 
 ### Education
 **Coding Boot Camp** (Enrolled)\
-University of Richmond - Richmond, Virginia  -  2022
-
+University of Richmond - Richmond, Virginia  -  2022\
 **Data Analytics Boot Camp** (completed)\
-University of Richmond - Richmond, Virginia  -  2021
-
+University of Richmond - Richmond, Virginia  -  2021\
 **Master of Business Administration**\
-University of Richmond - Richmond, Virginia - 2020
-
+University of Richmond - Richmond, Virginia - 2020\
 **International Residency**\
-Zagreb School of Economics & Management - Zagreb, Croatia  -  2019
-
+Zagreb School of Economics & Management - Zagreb, Croatia  -  2019\
 **Bachelor of Liberal Arts**\
 University of Richmond - Richmond, Virginia  -  2016
 
