@@ -1,6 +1,6 @@
 ### MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner
 
-Aspiring data analyst with a track record of developing and executing data driven strategies by exploring data and exploiting opportunities - Seeking an opportunity to apply keen business acumen and hardened work ethic into a more technical role in data science or coding /
+Aspiring data analyst with a track record of developing and executing data driven strategies by exploring data and exploiting opportunities - Seeking an opportunity to apply keen business acumen and hardened work ethic into a more technical role in data science or coding \
 
 continues
 
