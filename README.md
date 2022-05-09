@@ -8,12 +8,12 @@ Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 [Business Metrics Dashboard](https://github.com/eclevela-1234/Final-Project) - September 2021
 - Final project for boot camp: Using company sales and local weather data, I created a dashboard for comparing annual sales with potential for analyzing historical sales vs weather events using machine learning 
 - Part 1 Applied many methods and working with actual sales data such as: data cleaning, ETL, exploratory analysis, visualization & web page deployment
-- Part 2 - loaded in hourly data for historical weather comparisons using machine learning tools 
+- Part 2 - loaded in hourly data for historical weather comparisons using machine learning tools\ 
 **Programming languages used**: Python, Pandas, Java, HTML, CSS, Plotly, SciKitLearn, GithubPages
 
 [Geopolitics and COVID-19](https://github.com/eclevela-1234/Team_GEM_Project) - May 2021
 - Analyzed statistical correlation between geopolitical factors and COVID-19 deaths and cases. Used ANOVA and F-statistic to establish comparisons between regions
-- Worked with a team of three analysts - primary responsibilities included data exploration, visualization and developing the presentation narrative and deliverable
+- Worked with a team of three analysts - primary responsibilities included data exploration, visualization and developing the presentation narrative and deliverable\
 **Programming languages used**: Python, Pandas, JMP, MatPlotLib, Seaborn, PowerPoint
 
 [Ironworks MBA Capstone](https://github.com/eclevela-1234/Ironworks-Capstone) - February  2020
