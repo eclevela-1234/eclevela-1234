@@ -2,6 +2,22 @@
 
 Aspiring data analyst with a track record of developing and executing data driven strategies by exploring data and exploiting opportunities - Seeking an opportunity to apply keen business acumen and hardened work ethic into a more technical role in data science or coding.\
 
+### Education
+Coding Boot Camp (Enrolled)\
+University of Richmond - Richmond, Virginia  -  2022\
+
+Data Analytics Boot Camp Certificate\
+University of Richmond - Richmond, Virginia  -  2021\
+
+Master of Business Administration\
+University of Richmond - Richmond, Virginia - 2020\
+
+International Residency
+Zagreb School of Economics & Management - Zagreb, Croatia  -  2019\
+
+Bachelor of Liberal Arts\
+University of Richmond - Richmond, Virginia  -  2016\
+
 Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 
 
