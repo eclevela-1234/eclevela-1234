@@ -7,7 +7,7 @@ Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 ### Projects
 [Business Metrics Dashboard](https://github.com/eclevela-1234/Final-Project) - September 2021
 - Final project for boot camp: Using company sales and local weather data, I created a dashboard for comparing annual sales with potential for analyzing historical sales vs weather events using machine learning 
-- Part 1 Applied many methods and working with actual sales data such as: data cleaning, ETL, exploratory analysis, visualization & web page deployment
+- [Part 1](https://github.com/eclevela-1234/Project-2) Applied many methods and working with actual sales data such as: data cleaning, ETL, exploratory analysis, visualization & web page deployment
 - Part 2 - loaded in hourly data for historical weather comparisons using machine learning tools 
 - **Programming languages/libraries used**: Python, Pandas, Java, HTML, CSS, Plotly, SciKitLearn, GithubPages
 
