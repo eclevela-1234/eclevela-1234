@@ -30,7 +30,7 @@ University of Richmond - Richmond, Virginia  -  2021
 University of Richmond - Richmond, Virginia - 2020
 - **International Business Residency**\
 Zagreb School of Economics & Management - Zagreb, Croatia  -  2019
-- **Bachelor of Liberal Arts**\
+- **Bachelor of Arts, Liberal Arts**\
 University of Richmond - Richmond, Virginia  -  2016
 
 
