@@ -1,7 +1,7 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
 
 # Aspiring data analyst/developer
-**Seeking an opportunity to apply keen business acumen into a more technical role in data science or coding.**
+**Seeking an opportunity to apply keen business acumen in a more technical role in data science or coding.**
 
 Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 
