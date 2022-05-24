@@ -1,8 +1,7 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
 
-#Aspiring data analyst/developer
-
-###Seeking an opportunity to apply keen business acumen into a more technical role in data science or coding.
+# Aspiring data analyst/developer
+**Seeking an opportunity to apply keen business acumen into a more technical role in data science or coding.**
 
 Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 
@@ -24,6 +23,10 @@ Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 <!-- - Consulting project for a local business asa the final project for the MBA program
 - Conducted exploratory data analysis and mapped various metrics using Tableau & Excel 
 - Applied many analysis frameworks to advise the business owner on future business decisions -->
+
+### Coding Projects
+
+To be continued...
 
 ### Education
 - **Coding Boot Camp** (Enrolled)\
