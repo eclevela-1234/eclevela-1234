@@ -28,7 +28,7 @@ Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
 
 To be continued...
 
-### Education
+## Education
 - **Coding Boot Camp** (Enrolled)\
 University of Richmond - Richmond, Virginia  -  2022
 - **Data Analytics Boot Camp** (completed)\
