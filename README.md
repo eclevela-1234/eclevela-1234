@@ -1,6 +1,6 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
 
-# Dataphile trapped in retail
+# Dataphile Trapped in Retail
 **Seeking an opportunity to apply business acumen in a more technical role in data science or coding.**
 
 Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile
