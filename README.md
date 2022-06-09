@@ -1,5 +1,5 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
-
+![Profile Image](profileimage.jpg)
 # Dataphile Trapped in Retail
 **Seeking an opportunity to apply business acumen in a more technical role in data science or coding.**
 
@@ -28,6 +28,7 @@ Here is my [LinkedIn](https://www.linkedin.com/in/eliotcleveland/) profile, agai
 
 [Run Buddy](https://github.com/eclevela-1234/run-buddy) - May 2022
 - A step by step foundational assignment taught over the first two weeks of Boot Camp
+
 [My Portfolio!](https://github.com/eclevela-1234/Porfolio) - June 2022
 - Make-from-scratch 'Challenge' assignment for the third week of Boot Camp.
 - Turned out a li'l blah but it was a great learning experienc!
