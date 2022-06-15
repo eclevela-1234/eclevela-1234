@@ -38,7 +38,7 @@ To be continued...
 ## Education
 - **Coding Boot Camp** (Enrolled)\
 University of Richmond - Richmond, Virginia  -  2022
-- **Data Analytics Boot Camp** (completed)\
+- **Data Analytics Boot Camp**\
 University of Richmond - Richmond, Virginia  -  2021
 - **Master of Business Administration**\
 University of Richmond - Richmond, Virginia - 2020
