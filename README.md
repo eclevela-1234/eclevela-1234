@@ -1,5 +1,5 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
-<!-- ![Profile Image](profileimage.jpg) -->
+![Job Search Image](job-search.jpg)
 # Dataphile Trapped in Retail
 **Seeking an opportunity to apply business acumen in a more technical role in data science or coding.**
 
