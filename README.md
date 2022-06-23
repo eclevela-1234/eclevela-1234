@@ -3,7 +3,7 @@
 # Passionate About Coding
 **Seeking an opportunity to apply business acumen and experience in a more technical role in data science or coding.**
 
-Here is [my portfolio!](https://github.com/eclevela-1234/Porfolio)
+Here is [my portfolio!](https://eclevela-1234.github.io/Porfolio/)
 
 
 
