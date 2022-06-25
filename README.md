@@ -1,6 +1,6 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
 ![Job Search Image](job-search.jpg)
-# Passionate About Coding
+# Developing the Future!
 **Seeking an opportunity to apply skills, work ethic, business acumen and experience in a more technical role in data science or coding.**
 
 Here is [my portfolio!](https://eclevela-1234.github.io/Porfolio/)
