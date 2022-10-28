@@ -1,5 +1,5 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
-![Job Search Image](job-search.jpg)
+<!-- ![Job Search Image](job-search.jpg) -->
 # Hello world!
 **I am an independent data analyst/developer and double boot camp graduate (almost)! I specialize in full-stack JavaScript based coding languages and also have a strong understanding of Python, SQL, VBA, Tableau (& other software suites). I am seeking an opportunity to apply my skills, work ethic, business acumen and experience in a more technical role in data science or coding.**
 
