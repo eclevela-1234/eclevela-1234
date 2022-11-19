@@ -7,9 +7,9 @@ I got into coding and analytics because I wanted to learn more about data analys
 
 Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 
-*** Contact me at:
+## Contact me at:
 
-*Email:* eliotclevelandmda@gmail.com
+*Email:* eliotclevelandmda@gmail.com\
 *Phone:* (804) 986-8943
 
 
