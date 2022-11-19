@@ -5,7 +5,7 @@
 
 I got into coding and analytics because I wanted to learn more about data analysis after I finished my MBA degree in 2020. Last year, I completed a Data Analysis and Visualization Boot Camp where I learned in-depth python and its associated libraries and platforms, plus some VBA, R, Tableau. While these concepts helped strengthen my analytical skills and overall understanding of data, I found myself wanting to create secure and usable dashboards which ultimately required a full-stack. This led to my current enrollment in the Full Stack Boot Camp. My latest foray into programming has been so enriching because I am able to build on the foundational JavaScript I learned last year.
 
-Here is [my portfolio!](https://eclevela-1234.github.io/Porfolio/)
+Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 
 🔭 I’m currently working on my final project presentation
 
