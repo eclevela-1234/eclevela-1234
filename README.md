@@ -7,9 +7,16 @@ I got into coding and analytics because I wanted to learn more about data analys
 
 Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 
-🔭 I’m currently working on my final project presentation
+***Contact me at:
 
-🌱 I’m currently learning GraphQL
+*Email:* [eliotclevelandmda@gmail.com]
+*Phone:* (804) 986-8943
+
+
+
+🔭 I’m currently working on my portfolio.
+
+🌱 I’m currently reviewing my Python coursework. 
 
 ⚡ Fun fact: I can juggle flaming torches!
 
