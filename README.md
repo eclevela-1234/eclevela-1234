@@ -2,7 +2,7 @@
 <!-- ![Job Search Image](job-search.jpg) -->
 # Hi there!
 
-**Full stack web developer and data analyst leveraging retail management background to design intuitive business applications. Certificates in Full Stack Web Development and Data Analytics from the University of Richmond.** 
+**I am a full stack web developer and data analyst leveraging retail management background to design intuitive business applications. Certificates in Full Stack Web Development and Data Analytics from the University of Richmond.** 
 
 Proficient in JavaScript, HTML, CSS, Python coding languages in a collaborative Git setting. Experience implementing SQL and MongoDB databases through object mappers in both Node and Python environments. Working knowledge of libraries such as Bootstrap, Bulma, jQuery, Plotly, and analysis tools Pandas, Matplotlib, SciKitLearn, R, and Tableau.
 
