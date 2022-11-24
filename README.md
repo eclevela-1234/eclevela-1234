@@ -1,9 +1,15 @@
 <!-- # MBA | Data Scientist | Strategist | Researcher | Leader | Problem Solver | Lifelong Learner -->
 <!-- ![Job Search Image](job-search.jpg) -->
 # Hi there!
-**I am an independent data analyst/developer and double boot camp graduate! I specialize in full-stack JavaScript based coding languages and also have a working knowledge of Python, SQL, VBA, Tableau (& other software suites). I am seeking an opportunity to apply my skills, work ethic, business acumen and experience in a more technical role in data science or coding.**
 
-I got into coding and analytics because I wanted to learn more about data analysis after I finished my MBA degree in 2020. Last year, I completed a Data Analysis and Visualization Boot Camp where I learned in-depth python and its associated libraries and platforms, plus some VBA, R, Tableau. While these concepts helped strengthen my analytical skills and overall understanding of data, I found myself wanting to create secure and usable dashboards which ultimately required a full-stack. This led to my current enrollment in the Full Stack Boot Camp. My latest foray into programming has been so enriching because I am able to build on the foundational JavaScript I learned last year.
+*Full stack web developer and data analyst leveraging retail management background to design intuitive business applications. Certificates in Full Stack Web Development and Data Analytics from the University of Richmond.* 
+
+Proficient in JavaScript, HTML, CSS, Python coding languages in a collaborative Git setting. Experience implementing SQL and MongoDB databases through object mappers in both Node and Python environments. Working knowledge of libraries such as Bootstrap, Bulma, jQuery, Plotly, and analysis tools Pandas, Matplotlib, SciKitLearn, R, and Tableau.
+
+I set aggressive deadlines and order my days for the greatest amount of productivity. Because of this I was able to utilize instructional time for collaboration and practice. I was honored with the Book Award for the highest grades and chosen as commencement speaker for the Full Stack program. I’ve achieved career success by design thinking, always searching for intuitive ways to improve processes and enhance user experiences.    
+
+Excited to get to work developing applications that provide a broad array of business solutions.
+
 
 Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 
