@@ -13,7 +13,7 @@ Excited to get to work developing applications that provide a broad array of bus
 
 Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 
-## Contact me at:
+## Contact me:
 
 *Email:* eliotclevelandmda@gmail.com\
 *Phone:* (804) 986-8943
