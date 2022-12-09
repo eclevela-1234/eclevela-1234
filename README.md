@@ -22,7 +22,9 @@ Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 <!-- Just Keep Swimming!!! -->
 🔭 I’m currently working on my portfolio.
 
-🌱 I’m currently reviewing my Python coursework. 
+🌱 I’m currently reviewing my Python coursework.
+
+🏫 I love teaching!
 
 ⚡ Fun fact: I can juggle flaming torches!
 
