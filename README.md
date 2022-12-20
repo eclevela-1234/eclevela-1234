@@ -17,7 +17,7 @@ Here is [my portfolio!](https://eclevela-1234.github.io/folio-3-point-0/)
 
 *Email:* eliotclevelandmda@gmail.com\
 *Phone:* (804) 986-8943
-
+<!-- Veni Vidi Vici -->
 
 <!-- Just Keep Swimming!!! -->
 🔭 I’m currently working on my portfolio.
